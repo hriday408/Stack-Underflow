@@ -81,7 +81,7 @@ const MobileNavMenu = () => {
           Users
         </MenuItem>
         <Divider />
-        <div className={classes.madeByItem}>
+        {/* <div className={classes.madeByItem}>
           <Typography variant="caption" color="secondary">
             Made with{' '}
             <FavoriteIcon style={{ fontSize: 10, color: '#f4649f' }} /> by{' '}
@@ -91,10 +91,10 @@ const MobileNavMenu = () => {
               target="_blank"
               rel="noopener"
             >
-              <strong>{` amand33p`}</strong>
+              <strong>{` `}</strong>
             </Link>
           </Typography>
-        </div>
+        </div> */}
       </Menu>
     </div>
   );
