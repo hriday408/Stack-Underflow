@@ -6,8 +6,6 @@
 #### Front-end
 
 - [ReactJS](https://reactjs.org/) - Frontend framework
-- [Apollo Client](https://www.apollographql.com/docs/react/) - State management library to manage both local and remote data with GraphQL
-- [Context API w/ hooks](https://reactjs.org/docs/context.html) - For state of user, toast notifs, theme etc.
 - [React Router](https://reactrouter.com/) - For general routing & navigation
 - [React Hook Form](https://react-hook-form.com/) - For flexible forms
 - [Material-UI w/ lots of CSS customisations](https://material-ui.com/) - UI library
